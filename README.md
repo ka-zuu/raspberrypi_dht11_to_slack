@@ -1,4 +1,5 @@
 # raspberrypi_dht11_to_slack
+DHT11から温度・湿度を取得して、Slackへ投げる
 
 ## DHT11のPythonライブラリを取得
 `git clone https://github.com/szazo/DHT11_Python.git`
